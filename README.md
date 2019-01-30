@@ -2,7 +2,7 @@
 
 In this project, you will demonstrate proficiency by writing unit tests for an existing React application. Your tests should verify the behaviour listed in the _Minimum Viable Product_ section.
 
-Some of the topics covered were:
+Some of the topics covered were: 
 
 - Testing a React application.
 - Using the `react-testing-library` testing framework.
